@@ -1,1 +1,0 @@
-{"uuid":"118eabf5-8747-4dc6-92fc-37a996a78bfe","name":"gorest.co.in.SetUp.Base.setup","children":["d05ced81-6506-4ae5-b6f7-d53bd39c5368"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699290000918,"stop":1699290001061}],"afters":[],"start":1699290000916,"stop":1699290001062}
