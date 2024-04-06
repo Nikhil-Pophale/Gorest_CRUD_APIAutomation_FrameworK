@@ -67,7 +67,8 @@ DELETE - DELETE Booking<br />
 
 
 **Allure Report > >**<br />
-![Screenshot (354)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/8cf53aa9-8542-4b4a-b676-6b140987c300)<br />
+![Screenshot (354)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/8cf53aa9-8542-4b4a-b676-6b140987c300) 
+<br />
 ![Screenshot (357)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/5fd0aae7-6c5a-4ccb-9d2d-85f3092c3603)
 
 
