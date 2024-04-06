@@ -1,6 +1,6 @@
 # Full_CRUD_APIAutomation_FrameworK_GoRest
 
-**GoRest API Automation with Rest Assured **
+##GoRest API Automation with Rest Assured
 
 Author : Nikhill Pophale 
 
@@ -24,10 +24,10 @@ Verification and Checkpoints &nbsp;&nbsp; : AssertJ , SoftAssert <br />
 
 Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.<br />
 
-Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO - 
+Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
 
 
-**Project Details**
+##**Project Details**
 
 Restful Booker API Automation with Java and Rest Assured
 
@@ -67,13 +67,5 @@ PUT Update Booking
 
 DELETE - DELETE Booking
 
-
-**Auth**
-
-Token Based => Bearer Token
-
-Cookies Based
-
-https://github.com/settings/tokens
 
 **Allure Report > >**
