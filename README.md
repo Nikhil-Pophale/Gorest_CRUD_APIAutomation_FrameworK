@@ -1,10 +1,10 @@
 # Full_CRUD_APIAutomation_FrameworK_GoRest
 
-##GoRest API Automation with Rest Assured##
+**GoRest API Automation with Rest Assured**
 
 Author : Nikhill Pophale 
 
-Email : nikhilpophale01@gmail.com
+Email : nikhilpophale01@gmail.com<br />
 
 **Tech stack used described below:**
 
@@ -27,7 +27,7 @@ Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
 
 
-##**Project Details**
+**Project Details**
 
 Restful Booker API Automation with Java and Rest Assured
 
