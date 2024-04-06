@@ -31,15 +31,13 @@ Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
 
 Restful Booker API Automation with Java and Rest Assured
 
-Automation Testcase
-
-We are using Hybrid Framework to Automate the Test cases
+Hybrid Framework to Automate the Test cases
 
 Payload Management
 
 Allure Reporting.( or Report NG)
 
-Jenkins File (It can run on the Jenkins also)
+Jenkins File (It can run on the Jenkins also)<br />
 
 **Integration Scenarios**
 
@@ -51,11 +49,11 @@ Update the Booking
 
 Delete the Booking
 
-Verify that Booking is deleted.
+Verify that Booking is deleted.<br />
 
 **Project URL**
 
-https://restful-booker.herokuapp.com/apidoc/index.html
+https://gorest.co.in/public/v2/users<br />
 
 **CRUD OPeration**
 
@@ -65,7 +63,11 @@ POST Create Booking
 
 PUT Update Booking
 
-DELETE - DELETE Booking
+DELETE - DELETE Booking<br />
 
 
-**Allure Report > >**
+**Allure Report > >**<br />
+![Screenshot (354)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/8cf53aa9-8542-4b4a-b676-6b140987c300)<br />
+![Screenshot (357)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/5fd0aae7-6c5a-4ccb-9d2d-85f3092c3603)
+
+
