@@ -10,7 +10,7 @@ Email : nikhilpophale01@gmail.com<br />
 
 Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
-Rest Assured  &nbsp;&nbsp;:    &nbsp;&nbsp;Java library for testing RESTful web services<br />
+Rest Assured  &nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Java library for testing RESTful web services<br />
 
 Maveen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
 
@@ -18,7 +18,7 @@ TestNg  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 JEnkins  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Execute the Test Cases<br />
 
-Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
+Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
 
 Verification and Checkpoints &nbsp;&nbsp; : AssertJ , SoftAssert <br /> 
 
@@ -39,7 +39,7 @@ Allure Reporting.( or Report NG)
 
 Jenkins File (It can run on the Jenkins also)<br />
 
-**Integration Scenarios**
+**Integration Scenarios covered**
 
 Get the Token from POST Request.
 
@@ -65,11 +65,14 @@ PUT Update Booking
 
 DELETE - DELETE Booking<br />
 
+**Framework Overview**
+
+![c (2)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/098b3071-4c40-4ef8-a7ea-ae6d43db2a8c)
 
 **Allure Report > >**<br />
-![Screenshot (354)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/8cf53aa9-8542-4b4a-b676-6b140987c300) 
-
 
 ![Screenshot (357)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/5fd0aae7-6c5a-4ccb-9d2d-85f3092c3603)
+
+![Screenshot (354)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/8cf53aa9-8542-4b4a-b676-6b140987c300) 
 
 
