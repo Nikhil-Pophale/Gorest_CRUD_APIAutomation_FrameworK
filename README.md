@@ -66,7 +66,6 @@ PUT Update Booking
 DELETE - DELETE Booking<br />
 
 **Framework Overview**
-
 ![c (2)](https://github.com/Nikhil-Pophale/Gorest_CRUD_APIAutomation_FrameworK/assets/141396302/098b3071-4c40-4ef8-a7ea-ae6d43db2a8c)
 
 **Allure Report > >**<br />
